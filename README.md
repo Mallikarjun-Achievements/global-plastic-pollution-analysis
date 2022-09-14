@@ -1,3 +1,4 @@
+<h1 style="background-color:grey">Short_1</h1>
 <h1>Global Plastic Pollution Analysis<h1>
 <center><h2>Learning Report</h1></center>
 <center><h4>What I learned</h4></center>
@@ -18,4 +19,12 @@
 <p style="font-size:20px;line-height: 1.6;color:gray;">
     Minimum Viable Report<br>
     Minimum Viable DataScience Product<br>
+</p>
+<hr>
+<p style="font-size:20px;line-height: 1.6;">
+    Data Analysis , Exploratory Data Analysis , Data Visualization. <br>
+    Pandas , Numpy , Seaborn , Matplotlib. <br>
+    Missing value Handling , Missing Data Visualization , Data Cleaning. <br>
+    Feature Scaling , Feature Engineering. <br>
+    Tabular data , Numerical data , Time-series Data. <br>
 </p>
